@@ -1,0 +1,16 @@
+C:\Development\NorthwindTraders-master\Northwind.Infrastructure\bin\Debug\netstandard2.0\Northwind.Infrastructure.deps.json
+C:\Development\NorthwindTraders-master\Northwind.Infrastructure\bin\Debug\netstandard2.0\Northwind.Infrastructure.dll
+C:\Development\NorthwindTraders-master\Northwind.Infrastructure\bin\Debug\netstandard2.0\Northwind.Infrastructure.pdb
+C:\Development\NorthwindTraders-master\Northwind.Infrastructure\bin\Debug\netstandard2.0\Northwind.Application.dll
+C:\Development\NorthwindTraders-master\Northwind.Infrastructure\bin\Debug\netstandard2.0\Northwind.Common.dll
+C:\Development\NorthwindTraders-master\Northwind.Infrastructure\bin\Debug\netstandard2.0\Northwind.Domain.dll
+C:\Development\NorthwindTraders-master\Northwind.Infrastructure\bin\Debug\netstandard2.0\Northwind.Application.pdb
+C:\Development\NorthwindTraders-master\Northwind.Infrastructure\bin\Debug\netstandard2.0\Northwind.Common.pdb
+C:\Development\NorthwindTraders-master\Northwind.Infrastructure\bin\Debug\netstandard2.0\Northwind.Domain.pdb
+C:\Development\NorthwindTraders-master\Northwind.Infrastructure\obj\Debug\netstandard2.0\Northwind.Infrastructure.csprojAssemblyReference.cache
+C:\Development\NorthwindTraders-master\Northwind.Infrastructure\obj\Debug\netstandard2.0\Northwind.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Development\NorthwindTraders-master\Northwind.Infrastructure\obj\Debug\netstandard2.0\Northwind.Infrastructure.AssemblyInfoInputs.cache
+C:\Development\NorthwindTraders-master\Northwind.Infrastructure\obj\Debug\netstandard2.0\Northwind.Infrastructure.AssemblyInfo.cs
+C:\Development\NorthwindTraders-master\Northwind.Infrastructure\obj\Debug\netstandard2.0\Northwind.Infrastructure.csproj.CopyComplete
+C:\Development\NorthwindTraders-master\Northwind.Infrastructure\obj\Debug\netstandard2.0\Northwind.Infrastructure.dll
+C:\Development\NorthwindTraders-master\Northwind.Infrastructure\obj\Debug\netstandard2.0\Northwind.Infrastructure.pdb

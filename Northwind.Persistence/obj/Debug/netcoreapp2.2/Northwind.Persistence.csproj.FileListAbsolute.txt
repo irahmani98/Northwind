@@ -1,0 +1,16 @@
+C:\Development\NorthwindTraders-master\Northwind.Persistence\bin\Debug\netcoreapp2.2\Northwind.Persistence.deps.json
+C:\Development\NorthwindTraders-master\Northwind.Persistence\bin\Debug\netcoreapp2.2\Northwind.Persistence.runtimeconfig.json
+C:\Development\NorthwindTraders-master\Northwind.Persistence\bin\Debug\netcoreapp2.2\Northwind.Persistence.runtimeconfig.dev.json
+C:\Development\NorthwindTraders-master\Northwind.Persistence\bin\Debug\netcoreapp2.2\Northwind.Persistence.dll
+C:\Development\NorthwindTraders-master\Northwind.Persistence\bin\Debug\netcoreapp2.2\Northwind.Persistence.pdb
+C:\Development\NorthwindTraders-master\Northwind.Persistence\bin\Debug\netcoreapp2.2\Northwind.Application.dll
+C:\Development\NorthwindTraders-master\Northwind.Persistence\bin\Debug\netcoreapp2.2\Northwind.Domain.dll
+C:\Development\NorthwindTraders-master\Northwind.Persistence\bin\Debug\netcoreapp2.2\Northwind.Application.pdb
+C:\Development\NorthwindTraders-master\Northwind.Persistence\bin\Debug\netcoreapp2.2\Northwind.Domain.pdb
+C:\Development\NorthwindTraders-master\Northwind.Persistence\obj\Debug\netcoreapp2.2\Northwind.Persistence.csprojAssemblyReference.cache
+C:\Development\NorthwindTraders-master\Northwind.Persistence\obj\Debug\netcoreapp2.2\Northwind.Persistence.csproj.CoreCompileInputs.cache
+C:\Development\NorthwindTraders-master\Northwind.Persistence\obj\Debug\netcoreapp2.2\Northwind.Persistence.AssemblyInfoInputs.cache
+C:\Development\NorthwindTraders-master\Northwind.Persistence\obj\Debug\netcoreapp2.2\Northwind.Persistence.AssemblyInfo.cs
+C:\Development\NorthwindTraders-master\Northwind.Persistence\obj\Debug\netcoreapp2.2\Northwind.Persistence.csproj.CopyComplete
+C:\Development\NorthwindTraders-master\Northwind.Persistence\obj\Debug\netcoreapp2.2\Northwind.Persistence.dll
+C:\Development\NorthwindTraders-master\Northwind.Persistence\obj\Debug\netcoreapp2.2\Northwind.Persistence.pdb

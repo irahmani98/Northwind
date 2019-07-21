@@ -1,0 +1,9 @@
+C:\Development\NorthwindTraders-master\Northwind.Domain\bin\Debug\netstandard2.0\Northwind.Domain.deps.json
+C:\Development\NorthwindTraders-master\Northwind.Domain\bin\Debug\netstandard2.0\Northwind.Domain.dll
+C:\Development\NorthwindTraders-master\Northwind.Domain\bin\Debug\netstandard2.0\Northwind.Domain.pdb
+C:\Development\NorthwindTraders-master\Northwind.Domain\obj\Debug\netstandard2.0\Northwind.Domain.csprojAssemblyReference.cache
+C:\Development\NorthwindTraders-master\Northwind.Domain\obj\Debug\netstandard2.0\Northwind.Domain.csproj.CoreCompileInputs.cache
+C:\Development\NorthwindTraders-master\Northwind.Domain\obj\Debug\netstandard2.0\Northwind.Domain.AssemblyInfoInputs.cache
+C:\Development\NorthwindTraders-master\Northwind.Domain\obj\Debug\netstandard2.0\Northwind.Domain.AssemblyInfo.cs
+C:\Development\NorthwindTraders-master\Northwind.Domain\obj\Debug\netstandard2.0\Northwind.Domain.dll
+C:\Development\NorthwindTraders-master\Northwind.Domain\obj\Debug\netstandard2.0\Northwind.Domain.pdb
